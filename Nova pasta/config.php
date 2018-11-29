@@ -1,5 +1,5 @@
 <?php
 
-$receber = "plsugg@gmail.com
+$receber = "victorhacking@live.com
 ";
 
